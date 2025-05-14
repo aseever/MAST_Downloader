@@ -1,0 +1,1 @@
+A utility to take in an advanced search csv from MAST (https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html) and download the products (astronomical "fits" files) so other programs can use them.
